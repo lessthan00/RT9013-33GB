@@ -156,3 +156,15 @@ package SOT-23-5
 5-NC  
   
 这样的封装的引脚定义是很少的,基本上只有TLV70450DBVR,甚至需要自己绘制封装...  
+
+## KP3310SGA
+
+[KP3310SGA](http://www.kiwiinst.com/productinfo/1249602.html)  
+高压斩波 + LDOLDO  
+VIN 80~305VAC  
+VOUT 5V/3.3V/2.7V  
+IOUT 30mA  
+耐压 650V MOS  
+RS(ON) 9.5Ω  
+IQ 130uA  
+无法获取详细资料,放弃做板子  
