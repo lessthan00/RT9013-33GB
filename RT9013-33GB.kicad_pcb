@@ -1034,7 +1034,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP163ASN150T1G"
+		(property "Value" "RT9013-33GB"
 			(at 1.4 2.4 0)
 			(layer "F.SilkS")
 			(uuid "f6d5236d-6e9c-47a3-87b3-1ff362b26ef9")
@@ -1071,7 +1071,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?23*")
-		(path "/983494b8-44f5-4285-872a-981fe803e2d6")
+		(path "/c0c264ce-78de-44e4-96d1-eeb170a621f9")
 		(sheetname "/")
 		(sheetfile "RT9013-33GB.kicad_sch")
 		(attr smd)
