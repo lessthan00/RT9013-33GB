@@ -1,5 +1,9 @@
 # RT9013-33GB
 
+<img src="./RT9013-33GB_F.png" style="display:block; margin:auto; width:50%;" />  
+<img src="./RT9013-33GB_B.png" style="display:block; margin:auto; width:50%;" />  
+<img src="./RT9013-33GB-Edge_Cuts.svg" style="display:block; margin:auto; width:50%;" />  
+
 [RT9013-33GB](https://www.jlc-smt.com/lcsc/detail?componentCode=C47773)
 LDO
 VIN 5.5V
